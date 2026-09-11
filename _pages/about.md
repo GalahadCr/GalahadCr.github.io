@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 
-subtitle: Senior Software Engineer · Backend Systems · Cloud · AI Engineering
+subtitle: Senior Software Engineer · Python · Backend · Cloud · AI
 
 profile:
   align: right
@@ -25,20 +25,10 @@ latest_posts:
   limit: 3
 ---
 
-I am a **Senior Software Engineer** specializing in **Python, backend systems, cloud-native architectures, distributed systems, and AI engineering**.
+I am a **Senior Software Engineer** focused on **Python, backend systems, cloud-native architectures, and AI engineering**.
 
-My professional experience focuses on designing and building reliable software systems, REST APIs, microservices, cloud infrastructure, and scalable backend applications.
+I build reliable and scalable software systems, with experience across **APIs, microservices, distributed systems, cloud infrastructure, and production-oriented AI applications**.
 
-Alongside my professional work, I am currently pursuing a **Master's degree in Computer Science**, where my interests include **artificial intelligence, machine learning, natural language processing, optimization, and trustworthy AI systems**.
+I am currently pursuing a **Master's degree in Computer Science**, with research interests in **machine learning, NLP, optimization, AI agents, and trustworthy AI systems**.
 
-I am particularly interested in the intersection between **software engineering and artificial intelligence**: how to design AI-powered systems that are not only intelligent, but also scalable, observable, reliable, and production-ready.
-
-My current work and research interests include:
-
-- Backend and distributed systems
-- Cloud-native architectures
-- Artificial intelligence and machine learning
-- NLP and large language models
-- AI agents and evaluation
-- Optimization and evolutionary algorithms
-- Reliable and observable AI systems
+My work sits at the intersection of **software engineering and artificial intelligence**, with a strong focus on reliability, observability, scalability, and real-world deployment.
