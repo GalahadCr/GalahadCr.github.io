@@ -4,8 +4,12 @@
 
 github_username: GalahadCr
 linkedin_username: isaac-rivera-coto-245364185
-email: isaacriverac94@gmail.com
+
+custom_social:
+  logo: https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/envelope.svg
+  title: Email Isaac
+  url: mailto:isaacriverac94@gmail.com
 
 contact_note: >
-  Academic contact:
-  <a href="mailto:isrivera@estudiantec.cr">isrivera@estudiantec.cr</a>
+  Professional: <a href="mailto:isaacriverac94@gmail.com">isaacriverac94@gmail.com</a><br>
+  Academic: <a href="mailto:isrivera@estudiantec.cr">isrivera@estudiantec.cr</a>
