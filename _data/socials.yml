@@ -1,6 +1,6 @@
 # Social links displayed on the site
 
-#cv_pdf: /assets/pdf/cv_isaac_rivera.pdf
+# cv_pdf: /assets/pdf/cv_isaac_rivera.pdf
 
 github_username: GalahadCr
 linkedin_username: isaac-rivera-coto-245364185
@@ -9,7 +9,3 @@ custom_social:
   logo: https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/envelope.svg
   title: Email Isaac
   url: mailto:isaacriverac94@gmail.com
-
-contact_note: >
-  Professional: <a href="mailto:isaacriverac94@gmail.com">isaacriverac94@gmail.com</a><br>
-  Academic: <a href="mailto:isrivera@estudiantec.cr">isrivera@estudiantec.cr</a>
