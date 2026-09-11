@@ -2,17 +2,6 @@
 
 #cv_pdf: /assets/pdf/cv_isaac_rivera.pdf
 
-# Primary email
-email: isaacriverac94@gmail.com
-
-# GitHub
 github_username: GalahadCr
-
-# LinkedIn
 linkedin_username: isaac-rivera-coto-245364185
-
-# TEC academic email
-custom_social:
-  logo: fa-solid fa-envelope
-  title: TEC Academic Email
-  url: mailto:isrivera@estudiantec.cr
+email: isaacriverac94@gmail.com

@@ -7,7 +7,8 @@ first_name: Isaac Alejandro
 middle_name: Rivera
 last_name: Coto
 contact_note: >
-  Feel free to reach out through LinkedIn or email.
+  Professional: <a href="mailto:isaacriverac94@gmail.com">isaacriverac94@gmail.com</a><br>
+  Academic: <a href="mailto:isrivera@estudiantec.cr">isrivera@estudiantec.cr</a>
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal website of Isaac Rivera, Senior Software Engineer specializing in
   Python, backend systems, cloud-native architectures, distributed systems,
